@@ -4,4 +4,6 @@ public class FeatureA {
 
     // Step 2
 
+    // Step 3
+
 }
