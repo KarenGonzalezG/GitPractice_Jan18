@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class FeatureA {
+public class FeatureA {
+
+    //Step 1
+
 }
